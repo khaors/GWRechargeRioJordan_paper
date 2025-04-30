@@ -1,0 +1,38 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": false,
+        "File": "GWRechargeRioJordan.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+            {
+                "bookmarkNumber": 1,
+                "fileName": "../CRFractures1/CRFractures1a.tex",
+                "lineNumber": 807,
+                "text": "CRFractures1a.tex\n"
+            }
+        ],
+        "CurrentFile": "GWRechargeRioJordan.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 165,
+                "EditorGroup": 0,
+                "FileName": "GWRechargeRioJordan.tex",
+                "FirstLine": 105,
+                "FoldedLines": "",
+                "Line": 117
+            },
+            {
+                "Col": 15,
+                "EditorGroup": 0,
+                "FileName": "GWRechargeRioJordan.bib",
+                "FirstLine": 1,
+                "FoldedLines": "",
+                "Line": 12
+            }
+        ],
+        "MasterFile": "",
+        "VerticalSplit": true
+    }
+}
